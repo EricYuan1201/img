@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "patch-package": "^6.5.0"
+  }
+}
